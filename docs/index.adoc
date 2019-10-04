@@ -1,19 +1,31 @@
-= image:./images/isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
-- Curriculae -
+= image:images/isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
 
-The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula on several levels for software architects.
+
+//G.Starke <gstarke@isaqb.org>, A.Heusingfeld <aheusingfeld@isaqb.org>
+
+:TOC:
+
+The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula for software architects.
 
 Here you find links to the respective download areas for the modules.
 
 All repositories are hosted on https://github.com/isaqb-org[Github/isaqb-org] under the https://github.com/isaqb-org[iSAQB organization].
 
-== CPSA-F (Foundation Level)
 
-* https://isaqb-org.github.io/curriculum-foundation[Foundation Level Documents (PDF and html))]
+**Status**: 
+// uncomment, if we have the travis-build enabled!
+// image:https://travis-ci.org/isaqb-org/isaqb-org.github.io.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/isaqb-org.github.io"]
+image:https://img.shields.io/github/last-commit/isaqb-org/isaqb-org.github.io/master.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/isaqb-org.github.io.svg["Contributors",link="https://github.com/isaqb-org/isaqb-org.github.io/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/isaqb-org.github.io.svg["Issues",link="https://github.com/isaqb-org/curriculum-req4arc/issues"]
 
+
+== Foundation Level (CPSA-F)
+
+* https://isaqb-org.github.io/curriculum-foundation[**Foundation Level Documents** (PDF and html))]
 * https://github.com/isaqb-org/curriculum-foundation[Source Repository], in case you want to contribute or comment.
 
-== CPSA-A (Advanced Level)
+== Advanced Level (CPSA-A)
 
 Please note: currently only those modules already converted to the AsciiDoc build toolchain can be found here, the others are available only via the official [iSAQB download page].
 
@@ -24,8 +36,8 @@ work in progress.
 work in progress.
 
 === IMPROVE (Evolutionary improvement of existing systems)
-* Documents:
-* Source Repository:
+* Documents: Not available yet.
+* https://github.com/isaqb-org/curriculum-improve[Source Repository]
 
 === REQ4ARC
 work in progress.
