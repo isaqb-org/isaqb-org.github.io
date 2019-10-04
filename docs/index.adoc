@@ -1,0 +1,34 @@
+= image:./isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
+- Curriculae -
+
+The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula on several levels for software architects.
+
+Here you find links to the respective download areas for the modules.
+
+All repositories are hosted on https://github.com/isaqb-org[Github/isaqb-org] under the https://github.com/isaqb-org[iSAQB organization].
+
+== CPSA-F (Foundation Level)
+
+* https://isaqb-org.github.io/curriculum-foundation[Foundation Level Documents (PDF and html))]
+
+* https://github.com/isaqb-org/curriculum-foundation[Source Repository], in case you want to contribute or comment.
+
+== CPSA-A (Advanced Level)
+
+Please note: currently only those modules already converted to the AsciiDoc build toolchain can be found here, the others are available only via the official [iSAQB download page].
+
+=== ADOK (Architecture Documentation)
+work in progress.
+
+=== FLEX (Flexible Architectures/Microservices)
+work in progress.
+
+=== IMPROVE (Evolutionary improvement of existing systems)
+* Documents:
+* Source Repository:
+
+=== REQ4ARC
+work in progress.
+
+
+
