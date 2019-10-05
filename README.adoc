@@ -1,7 +1,9 @@
 = https://isaqb.org[iSAQB] Collection of Curricula
 
 
-This is the main page that links to those curriculae that are maintained in AsciiDoc.
+This creates the https://isaqb-org.github.io/[main page] that links to those iSAQB curriculae that are maintained in AsciiDoc.
+
+Its online at https://isaqb-org.github.io/
 
 // uncomment, if we have the travis-build enabled!
 // image:https://travis-ci.org/isaqb-org/isaqb-org.github.io.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/isaqb-org.github.io"]
@@ -12,10 +14,11 @@ image:https://img.shields.io/github/issues/isaqb-org/isaqb-org.github.io.svg["Is
 == How-To 
 
 1. The download links for the respective curriculum should be included into the `docs/index.adoc` file.
-2. Run the `gradle` build without parameters, it will generate an `index.html` 
-3. The build will copy the generated html to the root of this repository, replacing the esisting `index.html`.
-4. `git commit -m "<useful message>"` 
-5. `git push`
+1. Run the `gradle` build without parameters, it will generate an `index.html` 
+1. The build will copy the generated html to the root of this repository, replacing the esisting `index.html`.
+1. Test your changes!
+1. `git commit -m "<useful message>"` 
+1. `git push`
 
 easy, isn't it?
 
