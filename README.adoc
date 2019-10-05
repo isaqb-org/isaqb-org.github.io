@@ -1,0 +1,33 @@
+= https://isaqb.org[iSAQB] Collection of Curricula
+
+
+This is the main page that links to those curriculae that are maintained in AsciiDoc.
+
+== Status
+
+// uncomment, if we have the travis-build enabled!
+// image:https://travis-ci.org/isaqb-org/isaqb-org.github.io.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/isaqb-org.github.io"]
+image:https://img.shields.io/github/last-commit/isaqb-org/isaqb-org.github.io/master.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/isaqb-org.github.io.svg["Contributors",link="https://github.com/isaqb-org/isaqb-org.github.io/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/isaqb-org.github.io.svg["Issues",link="https://github.com/isaqb-org/curriculum-req4arc/issues"]
+
+== How-To 
+
+1. The download links for the respective curriculum should be included into the `docs/index.adoc` file.
+2. Run the `gradle` build without parameters, it will generate an `index.html` 
+3. The build will copy the generated html to the root of this repository, replacing the esisting `index.html`.
+4. `git commit -m "<useful message>"` 
+5. `git push`
+
+easy, isn't it?
+
+
+== Questions
+Contact one of the https://github.com/isaqb-org/isaqb-org.github.io/graphs/contributors[maintainers] or the iSAQB administrators.
+
+== License
+This repo is free to use. 
+
+Please note that the iSAQB curricula (contained in different repositories) are copyrighted!
+
+
