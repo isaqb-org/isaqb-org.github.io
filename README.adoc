@@ -3,8 +3,7 @@
 
 This is the main page that links to those curriculae that are maintained in AsciiDoc.
 
-== Status
-
+**Status:** 
 // uncomment, if we have the travis-build enabled!
 // image:https://travis-ci.org/isaqb-org/isaqb-org.github.io.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/isaqb-org.github.io"]
 image:https://img.shields.io/github/last-commit/isaqb-org/isaqb-org.github.io/master.svg["Last commit"]
