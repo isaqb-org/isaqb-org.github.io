@@ -29,8 +29,10 @@ image:https://img.shields.io/github/issues/isaqb-org/isaqb-org.github.io.svg["Is
 
 Please note: currently only those modules already converted to the AsciiDoc build toolchain can be found here, the others are available only via the official [iSAQB download page].
 
-=== ADOK (Architecture Documentation)
+=== ADOC (Architecture Documentation)
 work in progress.
+
+* https://github.com/isaqb-org/curriculum-adoc[Source Repository]
 
 === FLEX (Flexible Architectures/Microservices)
 work in progress.
