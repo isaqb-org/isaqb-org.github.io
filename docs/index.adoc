@@ -30,9 +30,10 @@ image:https://img.shields.io/github/issues/isaqb-org/isaqb-org.github.io.svg["Is
 Please note: currently only those modules already converted to the AsciiDoc build toolchain can be found here, the others are available only via the official [iSAQB download page].
 
 === ADOC (Architecture Documentation)
-work in progress.
+Transition from docx-based version 1.5/1.6 currently in progress. We will migrate from a purely text-based version to a learning-goal based version.
 
-* https://github.com/isaqb-org/curriculum-adoc[Source Repository]
+* https://isaqb-org.github.io/curriculum-adoc/[Documents (PDF and html)] 
+* https://github.com/isaqb-org/curriculum-adoc[ADOC Source Repository]
 
 === FLEX (Flexible Architectures/Microservices)
 work in progress.
