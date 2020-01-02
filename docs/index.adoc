@@ -1,9 +1,9 @@
 = image:images/isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
+:TOC: left
 
 
 //G.Starke <gstarke@isaqb.org>, A.Heusingfeld <aheusingfeld@isaqb.org>
 
-:TOC:
 
 The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula for software architects.
 
@@ -11,12 +11,6 @@ Here you find links to the respective download areas for the modules.
 
 All repositories are hosted on https://github.com/isaqb-org[Github/isaqb-org] under the https://github.com/isaqb-org[iSAQB organization].
 
-
-**Status**: 
-// uncomment, if we have the travis-build enabled!
-image:https://img.shields.io/github/last-commit/isaqb-org/isaqb-org.github.io/master.svg["Last commit"]
-image:https://img.shields.io/github/contributors/isaqb-org/isaqb-org.github.io.svg["Contributors",link="https://github.com/isaqb-org/isaqb-org.github.io/graphs/contributors"]
-image:https://img.shields.io/github/issues/isaqb-org/isaqb-org.github.io.svg["Issues",link="https://github.com/isaqb-org/curriculum-req4arc/issues"]
 
 
 == Foundation Level (CPSA-F)
@@ -29,14 +23,17 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 * https://isaqb-org.github.io/curriculum-foundation[**Foundation Level Documents** (PDF and html))]
 * https://github.com/isaqb-org/curriculum-foundation[Source Repository], in case you want to contribute or comment.
 
----
+
 == Advanced Level (CPSA-A)
 
-Please note: currently only those modules already converted to the AsciiDoc build toolchain can be found here, the others are available only via the official [iSAQB download page].
+Please note: currently only those modules already converted to the AsciiDoc build toolchain can be found here, the others are available only via the official https://isaqb.com[iSAQB website].
 
----
 
-=== https://isaqb-org.github.io/curriculum-adoc/[ADOC (Architecture Documentation)]
+
+=== https://isaqb-org.github.io/curriculum-adoc/[ADOC]
+
+**Architecture Documentation**
+
 Transition from docx-based version 1.5/1.6 currently in progress. We will migrate from a purely text-based version to a learning-goal based version.
 
 Please note: the migration is currently (as of Dec. 2019) still unfinished!
@@ -49,12 +46,17 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 * https://isaqb-org.github.io/curriculum-adoc/[Documents (PDF and html)] 
 * https://github.com/isaqb-org/curriculum-adoc[Source Repository]
 
-=== FLEX (Flexible Architectures/Microservices)
+=== FLEX 
+
+**Flexible Architectures & Microservices**
+
 work in progress.
 
 ---
 
-=== https://isaqb-org.github.io/curriculum-improve/[IMPROVE] (Evolutionary improvement of existing systems)
+=== https://isaqb-org.github.io/curriculum-improve/[IMPROVE] 
+
+**Evolutionary improvement of existing systems**
 
 
 image:https://travis-ci.com/isaqb-org/curriculum-improve.svg?branch=master["Build Status", link="https://travis-ci.com/isaqb-org/curriculum-improve"]
@@ -68,6 +70,9 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.s
 ---
 
 === https://isaqb-org.github.io/curriculum-req4arc/[REQ4ARC]
+
+**Requirements Engineering** for Software Architects
+
 Version 1.0 (January 2020)
 
 
