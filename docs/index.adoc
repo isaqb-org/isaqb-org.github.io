@@ -86,4 +86,21 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.s
 
 
 
+=== https://isaqb-org.github.io/curriculum-funar/[FUNAR]
+
+**Functional Software Architecture**
+
+Version 1.0 (January 2020)
+
+
+image:https://travis-ci.com/isaqb-org/curriculum-funar.svg?branch=master["Build Status", link="https://travis-ci.com/isaqb-org/curriculum-funar"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-funar.svg["Contributors",link="https://github.com/isaqb-org/curriculum-funar/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-funar.svg["Issues",link="https://github.com/isaqb-org/curriculum-funar/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-funar.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-funar/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+* https://isaqb-org.github.io/curriculum-funar/[Documents (PDF and html)] 
+* https://github.com/isaqb-org/curriculum-funar[Source Repository]
+
+
+
 
