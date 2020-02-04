@@ -15,7 +15,7 @@ image:https://img.shields.io/github/issues/isaqb-org/isaqb-org.github.io.svg["Is
 
 1. The download links for the respective curriculum should be included into the `docs/index.adoc` file.
 1. Run the `gradle` build without parameters, it will generate an `index.html` 
-1. The build will copy the generated html to the root of this repository, replacing the esisting `index.html`.
+1. The build will copy the generated html to the root of this repository, replacing the existing `index.html`.
 1. Test your changes!
 1. `git commit -m "<useful message>"` 
 1. `git push`
