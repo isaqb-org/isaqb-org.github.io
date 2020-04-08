@@ -53,6 +53,21 @@ work in progress.
 
 ---
 
+=== https://isaqb-org.github.io/curriculum-funar/[FUNAR]
+
+**Functional Software Architecture**
+
+Version 1.0 (January 2020)
+
+image:https://github.com/isaqb-org/curriculum-funar/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-funar.svg["Contributors",link="https://github.com/isaqb-org/curriculum-funar/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-funar.svg["Issues",link="https://github.com/isaqb-org/curriculum-funar/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-funar.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-funar/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+* https://isaqb-org.github.io/curriculum-funar/[Documents (PDF and html)]
+* https://github.com/isaqb-org/curriculum-funar[Source Repository]
+
+
 === https://isaqb-org.github.io/curriculum-improve/[IMPROVE] 
 
 **Evolutionary improvement of existing systems**
@@ -72,8 +87,8 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.s
 
 Version 1.0 (January 2020)
 
-image:https://github.com/isaqb-org/curriculum-improve/workflows/CI/badge.svg?branch=master["Build Status"]
-image:https://img.shields.io/github/contributors/isaqb-org/curriculum-req4arc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-req4arcs/graphs/contributors"]
+image:https://github.com/isaqb-org/curriculum-req4arc/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-req4arc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-req4arc/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-req4arc.svg["Issues",link="https://github.com/isaqb-org/curriculum-req4arc/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-req4arc/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
@@ -81,17 +96,17 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.s
 * https://github.com/isaqb-org/curriculum-req4arc[Source Repository]
 
 
-=== https://isaqb-org.github.io/curriculum-funar/[FUNAR]
+=== https://isaqb-org.github.io/curriculum-web/[WEB]
 
-**Functional Software Architecture**
+**Web Architectures**
 
-Version 1.0 (January 2020)
+Version 2015.2 (April 2020)
 
-image:https://github.com/isaqb-org/curriculum-funar/workflows/CI/badge.svg?branch=master["Build Status"]
-image:https://img.shields.io/github/contributors/isaqb-org/curriculum-funar.svg["Contributors",link="https://github.com/isaqb-org/curriculum-funar/graphs/contributors"]
-image:https://img.shields.io/github/issues/isaqb-org/curriculum-funar.svg["Issues",link="https://github.com/isaqb-org/curriculum-funar/issues"]
-image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-funar.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-funar/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+image:https://github.com/isaqb-org/curriculum-web/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-web.svg["Contributors",link="https://github.com/isaqb-org/curriculum-web/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-web.svg["Issues",link="https://github.com/isaqb-org/curriculum-web/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-web.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-web/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-funar/[Documents (PDF and html)] 
-* https://github.com/isaqb-org/curriculum-funar[Source Repository]
+* https://isaqb-org.github.io/curriculum-web/[Documents (PDF and html)]
+* https://github.com/isaqb-org/curriculum-web[Source Repository]
 
