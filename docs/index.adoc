@@ -35,7 +35,7 @@ Please note: currently only those modules already converted to the AsciiDoc buil
 
 Transition from docx-based version 1.5/1.6 currently in progress. We will migrate from a purely text-based version to a learning-goal based version.
 
-Please note: the migration is currently (as of Dec. 2019) still unfinished!
+Please note: the migration is currently (as of April 2020) still unfinished!
 
 image:https://github.com/isaqb-org/curriculum-adoc/workflows/CI/badge.svg?branch=master["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-adoc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-adoc/graphs/contributors"]
