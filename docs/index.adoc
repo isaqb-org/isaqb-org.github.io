@@ -100,7 +100,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.s
 
 **Web Architectures**
 
-Version 2015.2 (April 2020)
+Version 2020.1 (April 2020)
 
 image:https://github.com/isaqb-org/curriculum-web/workflows/CI/badge.svg?branch=master["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-web.svg["Contributors",link="https://github.com/isaqb-org/curriculum-web/graphs/contributors"]
