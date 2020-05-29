@@ -124,3 +124,18 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-web.svg["
 
 * https://isaqb-org.github.io/curriculum-web/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-web[Source Repository]
+
+
+=== https://isaqb-org.github.io/curriculum-websec/[WEBSEC]
+
+**Web Security**
+
+Version 2020.1 (May 2020)
+
+image:https://github.com/isaqb-org/curriculum-websec/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-websec.svg["Contributors",link="https://github.com/isaqb-org/curriculum-websec/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-websec.svg["Issues",link="https://github.com/isaqb-org/curriculum-websec/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-websec.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-websec/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+* https://isaqb-org.github.io/curriculum-websec/[Documents (PDF and html)]
+* https://github.com/isaqb-org/curriculum-websec[Source Repository]
