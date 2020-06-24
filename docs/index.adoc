@@ -1,8 +1,7 @@
 = image:images/isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
 :TOC: left
 
-
-//G.Starke <gstarke@isaqb.org>, A.Heusingfeld <aheusingfeld@isaqb.org>
+// G. Starke <gstarke@isaqb.org>, A. Heusingfeld <aheusingfeld@isaqb.org>, B. Wolf <bwolf@isaqb.org>
 
 
 The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula for software architects.
