@@ -1,24 +1,26 @@
-
 buildscript {
-  repositories {
-    jcenter()
-  }
+    repositories {
+        jcenter()
+    }
 
 }
 plugins {
-  id "org.asciidoctor.convert" version "1.6.0"
+    id "org.asciidoctor.convert" version "1.6.0"
 }
 
 ext {
-  project.version = project.file("./document.version").text
+    project.version = project.file("./document.version").text
+
 }
 
 asciidoctor {
-  sourceDir = file('docs')
-  sources {
-    include 'index.adoc'
-  }
-  outputDir = file('build')
+    sourceDir = file('docs')
+
+    sources {
+        include 'index.adoc'
+    }
+
+    outputDir = file('build')
 }
 
 task copyIndex(type: Copy) {
