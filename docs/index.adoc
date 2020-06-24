@@ -13,6 +13,10 @@ All repositories are hosted on https://github.com/isaqb-org[Github/isaqb-org] un
 
 
 == Foundation Level (CPSA-F)
+
+Version
+include::https://raw.githubusercontent.com/isaqb-org/curriculum-foundation/master/document.version[]
+
 image:https://github.com/isaqb-org/curriculum-foundation/workflows/CI/badge.svg?branch=master["Build Status"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/master.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
@@ -49,7 +53,8 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 
 **Low-Trust Consensus in Decentralized Applications**
 
-Version 2019.1 (April 2020)
+Version
+include::https://raw.githubusercontent.com/isaqb-org/curriculum-blockchain/master/document.version[]
 
 image:https://github.com/isaqb-org/curriculum-blockchain/workflows/CI/badge.svg?branch=master["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-blockchain.svg["Contributors",link="https://github.com/isaqb-org/curriculum-blockchain/graphs/contributors"]
@@ -71,7 +76,8 @@ work in progress.
 
 **Functional Software Architecture**
 
-Version 1.0 (January 2020)
+Version
+include::https://raw.githubusercontent.com/isaqb-org/curriculum-funar/master/document.version[]
 
 image:https://github.com/isaqb-org/curriculum-funar/workflows/CI/badge.svg?branch=master["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-funar.svg["Contributors",link="https://github.com/isaqb-org/curriculum-funar/graphs/contributors"]
@@ -86,6 +92,9 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-funar.svg
 
 **Evolutionary improvement of existing systems**
 
+Version
+include::https://raw.githubusercontent.com/isaqb-org/curriculum-improve/master/document.version[]
+
 image:https://github.com/isaqb-org/curriculum-improve/workflows/CI/badge.svg?branch=master["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-improve.svg["Contributors",link="https://github.com/isaqb-org/curriculum-improve/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-improve.svg["Issues",link="https://github.com/isaqb-org/curriculum-improve/issues"]
@@ -99,7 +108,8 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.s
 
 **Requirements Engineering** for Software Architects
 
-Version 1.0 (January 2020)
+Version
+include::https://raw.githubusercontent.com/isaqb-org/curriculum-req4arc/master/document.version[]
 
 image:https://github.com/isaqb-org/curriculum-req4arc/workflows/CI/badge.svg?branch=master["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-req4arc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-req4arc/graphs/contributors"]
@@ -114,7 +124,8 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.s
 
 **Web Architectures**
 
-Version 2020.1 (April 2020)
+Version
+include::https://raw.githubusercontent.com/isaqb-org/curriculum-web/master/document.version[]
 
 image:https://github.com/isaqb-org/curriculum-web/workflows/CI/badge.svg?branch=master["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-web.svg["Contributors",link="https://github.com/isaqb-org/curriculum-web/graphs/contributors"]
@@ -129,7 +140,8 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-web.svg["
 
 **Web Security**
 
-Version 2020.1 (May 2020)
+Version
+include::https://raw.githubusercontent.com/isaqb-org/curriculum-websec/master/document.version[]
 
 image:https://github.com/isaqb-org/curriculum-websec/workflows/CI/badge.svg?branch=master["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-websec.svg["Contributors",link="https://github.com/isaqb-org/curriculum-websec/graphs/contributors"]
