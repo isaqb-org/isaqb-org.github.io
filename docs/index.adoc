@@ -14,6 +14,7 @@ All repositories are hosted on https://github.com/isaqb-org[Github/isaqb-org] un
 
 == Foundation Level (CPSA-F)
 
+=== Curriculum
 Version
 include::https://raw.githubusercontent.com/isaqb-org/curriculum-foundation/master/document.version[]
 
@@ -25,6 +26,13 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 
 * https://isaqb-org.github.io/curriculum-foundation[**Foundation Level Documents** (PDF and html))]
 * https://github.com/isaqb-org/curriculum-foundation[Source Repository], in case you want to contribute or comment.
+
+
+=== Sample Exam Questions and Answers
+* https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Questions-EN.pdf[Sample Exam Questions]
+* https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Answers-EN.pdf[Sample Exam Answers]
+
+* https://github.com/isaqb-org/examination-foundation[Source Repository], in case you want to contribute or comment.
 
 
 == Advanced Level (CPSA-A)
