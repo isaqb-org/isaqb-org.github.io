@@ -33,9 +33,9 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundati
 
 https://github.com/isaqb-org/examination-foundation[Source Repository], in case you want to contribute or comment.
 
-==== https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Questions-EN.pdf[Sample Exam Questions]
-==== https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Answers-EN.pdf[Sample Exam Answers]
-==== https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[Examination Guide]
+* https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Questions-EN.pdf[Sample Exam Questions]
+* https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Answers-EN.pdf[Sample Exam Answers]
+* https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[Examination Guide]
 
 
 == Advanced Level (CPSA-A)
