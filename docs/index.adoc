@@ -49,6 +49,22 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 * https://github.com/isaqb-org/curriculum-adoc[Source Repository]
 
 
+=== https://isaqb-org.github.io/curriculum-arceval/[ARCEVAL]
+
+**Architecture Evaluation**
+
+Version
+include::https://raw.githubusercontent.com/isaqb-org/curriculum-arceval/master/document.version[]
+
+image:https://github.com/isaqb-org/curriculum-arceval/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-arceval.svg["Contributors",link="https://github.com/isaqb-org/curriculum-arceval/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-arceval.svg["Issues",link="https://github.com/isaqb-org/curriculum-arceval/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-arceval.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-arceval/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+* https://isaqb-org.github.io/curriculum-arceval/[Documents (PDF and html)]
+* https://github.com/isaqb-org/curriculum-arceval[Source Repository]
+
+
 === https://isaqb-org.github.io/curriculum-blockchain/[BLOCKCHAIN]
 
 **Low-Trust Consensus in Decentralized Applications**
