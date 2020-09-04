@@ -28,7 +28,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 * https://github.com/isaqb-org/curriculum-foundation[Source Repository], in case you want to contribute or comment.
 
 
-=== Sample Exam Questions and Answers
+=== Sample Examination
 * https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Questions-EN.pdf[Sample Exam Questions]
 * https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Answers-EN.pdf[Sample Exam Answers]
 
