@@ -31,11 +31,10 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 image:https://img.shields.io/github/issues/isaqb-org/examination-foundation.svg["Issues",link="https://github.com/isaqb-org/examination-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundation.svg["Issues closed",link="https://github.com/isaqb-org/examination-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-https://github.com/isaqb-org/examination-foundation[Source Repository], in case you want to contribute or comment.
-
-* https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Questions-EN.pdf[Sample Exam Questions]
-* https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Answers-EN.pdf[Sample Exam Answers]
-* https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[Examination Guide]
+* https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Questions-EN.pdf[**Sample Exam Questions**]
+* https://isaqb-org.github.io/examination-foundation/sample_exam/Sample-Exam-Answers-EN.pdf[**Sample Exam Answers**]
+* https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[**Examination Guide**]
+* https://github.com/isaqb-org/examination-foundation[Source Repository], in case you want to contribute or comment.
 
 
 == Advanced Level (CPSA-A)
