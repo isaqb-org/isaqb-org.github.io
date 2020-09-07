@@ -84,7 +84,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-blockchai
 * https://isaqb-org.github.io/curriculum-blockchain/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-blockchain[Source Repository]
 
-=== FLEX 
+=== https://isaqb-org.github.io/curriculum-flex/[FLEX]
 
 **Flexible Architectures & Microservices**
 
