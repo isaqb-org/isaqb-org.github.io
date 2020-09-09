@@ -29,9 +29,11 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 image:https://img.shields.io/github/issues/isaqb-org/examination-foundation.svg["Issues",link="https://github.com/isaqb-org/examination-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundation.svg["Issues closed",link="https://github.com/isaqb-org/examination-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
+* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-de.pdf[**Examination Rules German**]
+* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[**Examination Rules English**]
+* https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[**Examination Guide**]
 * https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Questions-EN.pdf[**Mock Exam Questions**]
 * https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Answers-EN.pdf[**Mock Exam Answers**]
-* https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[**Examination Guide**]
 * https://github.com/isaqb-org/examination-foundation[Source Repository], in case you want to contribute or comment.
 
 
