@@ -46,8 +46,7 @@ Please note: currently only those modules already converted to the AsciiDoc buil
 
 **Architecture Documentation**
 
-NOTE: The next version (2021.1) will be published in January 2021!
-
+image:https://img.shields.io/github/v/release/isaqb-org/curriculum-adoc["GitHub release"]
 image:https://github.com/isaqb-org/curriculum-adoc/workflows/CI/badge.svg?branch=master["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-adoc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-adoc/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-adoc.svg["Issues",link="https://github.com/isaqb-org/curriculum-adoc/issues"]
