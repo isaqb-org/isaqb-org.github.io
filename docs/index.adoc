@@ -32,8 +32,10 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundati
 * https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-de.pdf[**Examination Rules German**]
 * https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[**Examination Rules English**]
 * https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[**Examination Guide**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Questions-EN.pdf[**Mock Exam Questions**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Answers-EN.pdf[**Mock Exam Answers**]
+* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Fragen-DE.pdf[**Mock Exam Questions German**]
+* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Antworten-DE.pdf[**Mock Exam Answers German**]
+* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Questions-EN.pdf[**Mock Exam Questions English**]
+* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Answers-EN.pdf[**Mock Exam Answers English**]
 * https://github.com/isaqb-org/examination-foundation[Source Repository], in case you want to contribute or comment.
 
 
