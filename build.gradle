@@ -1,16 +1,25 @@
+
+
+
 buildscript {
-    repositories {
-        jcenter()
+    allprojects {
+        repositories {
+            mavenCentral()
+            maven {
+                url "https://plugins.gradle.org/m2/"
+            }
+        }
+    }
+
+    dependencies {
+        classpath "org.asciidoctor:asciidoctorj:2.4.3"
+        classpath "org.jruby:jruby-complete:9.1.0.0"
     }
 
 }
 plugins {
-    id "org.asciidoctor.convert" version "1.6.0"
-}
 
-ext {
-    project.version = project.file("./document.version").text
-
+    id "org.asciidoctor.jvm.convert" version "3.3.0"
 }
 
 asciidoctor {
@@ -27,7 +36,7 @@ asciidoctor {
 
 task copyIndex(type: Copy) {
     dependsOn asciidoctor
-    from file("$buildDir/html5/")
+    from file("$buildDir/")
     into file(".")
 }
 
