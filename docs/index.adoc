@@ -1,6 +1,6 @@
 = image:images/isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
 :TOC: left
-
+:last-update-label!:
 // G. Starke <gstarke@isaqb.org>, A. Heusingfeld <aheusingfeld@isaqb.org>, B. Wolf <bwolf@isaqb.org>
 
 
