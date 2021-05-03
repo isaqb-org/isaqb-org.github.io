@@ -32,18 +32,19 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 
 
 === Examination
+image:https://img.shields.io/github/v/release/isaqb-org/examination-foundation["GitHub release"]
 image:https://img.shields.io/github/issues/isaqb-org/examination-foundation.svg["Issues",link="https://github.com/isaqb-org/examination-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundation.svg["Issues closed",link="https://github.com/isaqb-org/examination-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 * https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-de.pdf[**Examination Rules German**]
 * https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[**Examination Rules English**]
 * https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[**Examination Guide**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Fragen-DE.pdf[**Mock Exam Questions German**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Antworten-DE.pdf[**Mock Exam Answers German**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Questions-EN.pdf[**Mock Exam Questions English**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Answers-EN.pdf[**Mock Exam Answers English**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Questions-ES.pdf[**Mock Exam Questions Spanish**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/Mock-Exam-Answers-ES.pdf[**Mock Exam Answers Spanish**]
+* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-questions-de.pdf[**Mock Exam Questions German**]
+* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-answers-de.pdf[**Mock Exam Answers German**]
+* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-questions-en.pdf[**Mock Exam Questions English**]
+* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-answers-en.pdf[**Mock Exam Answers English**]
+* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-questions-es.pdf[**Mock Exam Questions Spanish**]
+* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-answers-es.pdf[**Mock Exam Answers Spanish**]
 
 * https://github.com/isaqb-org/examination-foundation[Source Repository], in case you want to contribute or comment.
 
