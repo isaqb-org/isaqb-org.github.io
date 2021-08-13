@@ -1,6 +1,7 @@
 = image:images/isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
-:TOC: left
+:TOC: right
 :last-update-label!:
+:stylesheet: html-theme/adoc-github.css
 // G. Starke <gstarke@isaqb.org>, A. Heusingfeld <aheusingfeld@isaqb.org>, B. Wolf <bwolf@isaqb.org>
 
 
@@ -67,6 +68,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 * https://isaqb-org.github.io/curriculum-adoc/[Documents (PDF and html)] 
 * https://github.com/isaqb-org/curriculum-adoc[Source Repository]
 
+- - -
 
 === https://isaqb-org.github.io/curriculum-arceval/[ARCEVAL]
 
@@ -81,6 +83,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-arceval.s
 * https://isaqb-org.github.io/curriculum-arceval/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-arceval[Source Repository]
 
+- - -
 
 === https://isaqb-org.github.io/curriculum-blockchain/[BLOCKCHAIN]
 
@@ -94,6 +97,8 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-blockchai
 
 * https://isaqb-org.github.io/curriculum-blockchain/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-blockchain[Source Repository]
+
+- - -
 
 === https://isaqb-org.github.io/curriculum-flex/[FLEX]
 
@@ -110,7 +115,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-flex.svg[
 * https://isaqb-org.github.io/curriculum-flex/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-flex[Source Repository]
 
----
+- - -
 
 === https://isaqb-org.github.io/curriculum-funar/[FUNAR]
 
@@ -125,6 +130,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-funar.svg
 * https://isaqb-org.github.io/curriculum-funar/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-funar[Source Repository]
 
+- - -
 
 === https://isaqb-org.github.io/curriculum-improve/[IMPROVE] 
 
@@ -139,6 +145,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.s
 * https://isaqb-org.github.io/curriculum-improve/[Documents (PDF and html)] 
 * https://github.com/isaqb-org/curriculum-improve[Source Repository]
 
+- - -
 
 === https://isaqb-org.github.io/curriculum-req4arc/[REQ4ARC]
 
@@ -153,6 +160,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.s
 * https://isaqb-org.github.io/curriculum-req4arc/[Documents (PDF and html)] 
 * https://github.com/isaqb-org/curriculum-req4arc[Source Repository]
 
+- - -
 
 === https://isaqb-org.github.io/curriculum-web/[WEB]
 
@@ -167,6 +175,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-web.svg["
 * https://isaqb-org.github.io/curriculum-web/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-web[Source Repository]
 
+- - -
 
 === https://isaqb-org.github.io/curriculum-websec/[WEBSEC]
 
