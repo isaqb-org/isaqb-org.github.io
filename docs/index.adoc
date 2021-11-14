@@ -36,6 +36,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundati
 
 ==== Mock Examination 
 
+[#mock-exam-documents]
 [Mock Examination]
 ====
 * https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-questions-de.pdf[**Beispielprüfung (nur Fragen) Deutsch**]
