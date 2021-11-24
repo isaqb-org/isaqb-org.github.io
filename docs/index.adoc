@@ -105,7 +105,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-blockchai
 **Dependable Embedded Systems**
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-embedded["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-embedded/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://github.com/isaqb-org/curriculum-embedded/workflows/CI%20-%20Releases%20and%20Master/badge.svg["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-embedded.svg["Contributors",link="https://github.com/isaqb-org/curriculum-embedded/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-embedded.svg["Issues",link="https://github.com/isaqb-org/curriculum-embedded/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-embedded.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-embedded/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
