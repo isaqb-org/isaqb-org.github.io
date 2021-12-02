@@ -30,8 +30,11 @@ image:https://img.shields.io/github/v/release/isaqb-org/examination-foundation["
 image:https://img.shields.io/github/issues/isaqb-org/examination-foundation.svg["Issues",link="https://github.com/isaqb-org/examination-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundation.svg["Issues closed",link="https://github.com/isaqb-org/examination-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-de.pdf[**Prüfungsregeln Deutsch**]
-* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[**Examination Rules English**]
+* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-de.pdf[**Prüfungsregeln**]
+* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[**Examination Rules**]
+* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-fr.pdf[**Règles de l'examen et exemples**]
+* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-it.pdf[**Regole d’esame ed esempi**]
+* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-pt.pdf[**Regras do exame e exemplos**]
 * https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[**Examination Guide**]
 
 ==== Mock Examination 
