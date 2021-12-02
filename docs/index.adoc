@@ -33,6 +33,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundati
 * https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-de.pdf[**Prüfungsregeln**]
 * https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[**Examination Rules**]
 * https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-fr.pdf[**Règles de l'examen et exemples**]
+* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-es.pdf[**Normas de examen y ejemplos**]
 * https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-it.pdf[**Regole d’esame ed esempi**]
 * https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-pt.pdf[**Regras do exame e exemplos**]
 * https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[**Examination Guide**]
