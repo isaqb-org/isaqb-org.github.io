@@ -7,7 +7,7 @@ Its online at https://isaqb-org.github.io/
 
 // uncomment, if we have the travis-build enabled!
 // image:https://travis-ci.org/isaqb-org/isaqb-org.github.io.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/isaqb-org.github.io"]
-image:https://img.shields.io/github/last-commit/isaqb-org/isaqb-org.github.io/master.svg["Last commit"]
+image:https://img.shields.io/github/last-commit/isaqb-org/isaqb-org.github.io/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/isaqb-org.github.io.svg["Contributors",link="https://github.com/isaqb-org/isaqb-org.github.io/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/isaqb-org.github.io.svg["Issues",link="https://github.com/isaqb-org/isaqb-org.github.io/issues"]
 
