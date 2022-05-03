@@ -104,6 +104,21 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-blockchai
 
 - - -
 
+=== https://isaqb-org.github.io/curriculum-ddd/[DDD]
+
+**Domain-Driven Design**
+
+image:https://img.shields.io/github/v/release/isaqb-org/curriculum-ddd["GitHub release"]
+image:https://github.com/isaqb-org/curriculum-ddd/workflows/CI%20-%20Releases%20and%20Main/badge.svg["Build Status"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-ddd.svg["Contributors",link="https://github.com/isaqb-org/curriculum-ddd/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-ddd.svg["Issues",link="https://github.com/isaqb-org/curriculum-ddd/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-ddd.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-ddd/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+* https://isaqb-org.github.io/curriculum-ddd/[Documents (PDF and html)]
+* https://github.com/isaqb-org/curriculum-ddd[Source Repository]
+
+- - -
+
 === https://isaqb-org.github.io/curriculum-embedded/[EMBEDDED]
 
 **Dependable Embedded Systems**
