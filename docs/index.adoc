@@ -16,8 +16,8 @@ All repositories are hosted on https://github.com/isaqb-org[GitHub/isaqb-org] un
 
 === Curriculum
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-foundation["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-foundation/workflows/CI/badge.svg?branch=master["Build Status"]
-image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/master.svg["Last commit"]
+image:https://github.com/isaqb-org/curriculum-foundation/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -64,7 +64,7 @@ Please note: currently only those modules already converted to the AsciiDoc buil
 **Architecture Documentation**
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-adoc["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-adoc/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://github.com/isaqb-org/curriculum-adoc/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-adoc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-adoc/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-adoc.svg["Issues",link="https://github.com/isaqb-org/curriculum-adoc/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-adoc/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -79,7 +79,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 **Architecture Evaluation**
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-arceval["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-arceval/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://github.com/isaqb-org/curriculum-arceval/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-arceval.svg["Contributors",link="https://github.com/isaqb-org/curriculum-arceval/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-arceval.svg["Issues",link="https://github.com/isaqb-org/curriculum-arceval/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-arceval.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-arceval/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -94,7 +94,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-arceval.s
 **Low-Trust Consensus in Decentralized Applications**
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-blockchain["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-blockchain/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://github.com/isaqb-org/curriculum-blockchain/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-blockchain.svg["Contributors",link="https://github.com/isaqb-org/curriculum-blockchain/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-blockchain.svg["Issues",link="https://github.com/isaqb-org/curriculum-blockchain/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-blockchain.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-blockchain/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -124,7 +124,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-ddd.svg["
 **Dependable Embedded Systems**
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-embedded["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-embedded/workflows/CI%20-%20Releases%20and%20Master/badge.svg["Build Status"]
+image:https://github.com/isaqb-org/curriculum-embedded/workflows/CI%20-%20Releases%20and%20main/badge.svg["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-embedded.svg["Contributors",link="https://github.com/isaqb-org/curriculum-embedded/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-embedded.svg["Issues",link="https://github.com/isaqb-org/curriculum-embedded/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-embedded.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-embedded/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -142,7 +142,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-embedded.
 NOTE: the migrated document 2020.1-rev1 is still in review!
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-flex["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-flex/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://github.com/isaqb-org/curriculum-flex/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-flex.svg["Contributors",link="https://github.com/isaqb-org/curriculum-flex/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-flex.svg["Issues",link="https://github.com/isaqb-org/curriculum-flex/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-flex.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-flex/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -157,7 +157,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-flex.svg[
 **Functional Software Architecture**
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-funar["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-funar/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://github.com/isaqb-org/curriculum-funar/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-funar.svg["Contributors",link="https://github.com/isaqb-org/curriculum-funar/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-funar.svg["Issues",link="https://github.com/isaqb-org/curriculum-funar/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-funar.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-funar/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -172,7 +172,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-funar.svg
 **Evolutionary improvement of existing systems**
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-improve["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-improve/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://github.com/isaqb-org/curriculum-improve/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-improve.svg["Contributors",link="https://github.com/isaqb-org/curriculum-improve/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-improve.svg["Issues",link="https://github.com/isaqb-org/curriculum-improve/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-improve/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -187,7 +187,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.s
 **Requirements Engineering** for Software Architects
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-req4arc["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-req4arc/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://github.com/isaqb-org/curriculum-req4arc/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-req4arc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-req4arc/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-req4arc.svg["Issues",link="https://github.com/isaqb-org/curriculum-req4arc/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-req4arc/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -202,7 +202,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.s
 **Web Architectures**
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-web["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-web/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://github.com/isaqb-org/curriculum-web/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-web.svg["Contributors",link="https://github.com/isaqb-org/curriculum-web/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-web.svg["Issues",link="https://github.com/isaqb-org/curriculum-web/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-web.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-web/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -217,7 +217,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-web.svg["
 **Web Security**
 
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-websec["GitHub release"]
-image:https://github.com/isaqb-org/curriculum-websec/workflows/CI/badge.svg?branch=master["Build Status"]
+image:https://github.com/isaqb-org/curriculum-websec/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-websec.svg["Contributors",link="https://github.com/isaqb-org/curriculum-websec/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-websec.svg["Issues",link="https://github.com/isaqb-org/curriculum-websec/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-websec.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-websec/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
