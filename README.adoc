@@ -1,12 +1,10 @@
 = https://isaqb.org[iSAQB] Collection of Curricula
 
 
-This creates the https://isaqb-org.github.io/[main page] that links to the iSAQB curriculae that are maintained in AsciiDoc.
+This creates the https://public.isaqb.org/[main page] that links to the iSAQB curriculae that are maintained in AsciiDoc.
 
-Its online at https://isaqb-org.github.io/
+Its online at https://public.isaqb.org
 
-// uncomment, if we have the travis-build enabled!
-// image:https://travis-ci.org/isaqb-org/isaqb-org.github.io.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/isaqb-org.github.io"]
 image:https://img.shields.io/github/last-commit/isaqb-org/isaqb-org.github.io/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/isaqb-org.github.io.svg["Contributors",link="https://github.com/isaqb-org/isaqb-org.github.io/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/isaqb-org.github.io.svg["Issues",link="https://github.com/isaqb-org/isaqb-org.github.io/issues"]
