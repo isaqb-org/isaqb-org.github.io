@@ -6,10 +6,20 @@
 
 
 The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula for software architects.
+Here you find links to the respective download areas of those curricula, as well as other helpful documents like the iSAQB Glossary or the mock exam.
+All repositories are hosted on GitHub under the https://github.com/isaqb-org[iSAQB organization].
 
-Here you find links to the respective download areas for the modules.
+== iSAQB Glossary
 
-All repositories are hosted on https://github.com/isaqb-org[GitHub/isaqb-org] under the https://github.com/isaqb-org[iSAQB organization].
+image:https://img.shields.io/github/v/release/isaqb-org/glossary["GitHub release"]
+image:https://github.com/isaqb-org/glossary/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["Build Status"]
+image:https://img.shields.io/github/last-commit/isaqb-org/glossary/main.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/glossary.svg["Contributors",link="https://github.com/isaqb-org/glossary/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/glossary.svg["Issues",link="https://github.com/isaqb-org/glossary/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/glossary.svg["Issues closed",link="https://github.com/isaqb-org/glossary/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+* https://public.isaqb.org/glossary[**iSAQB Glossary** (PDF and html)]
+* https://github.com/isaqb-org/glossary[Source Repository], in case you want to contribute, comment, or checkout older releases.
 
 
 == Foundation Level (CPSA-F)
@@ -22,7 +32,7 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-foundation[**Foundation Level Curriculum** (PDF and html)]
+* https://public.isaqb.org/curriculum-foundation[**Foundation Level Curriculum** (PDF and html)]
 * https://github.com/isaqb-org/curriculum-foundation[Source Repository], in case you want to contribute or comment or checkout older releases.
 
 === Examination
@@ -30,25 +40,25 @@ image:https://img.shields.io/github/v/release/isaqb-org/examination-foundation["
 image:https://img.shields.io/github/issues/isaqb-org/examination-foundation.svg["Issues",link="https://github.com/isaqb-org/examination-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundation.svg["Issues closed",link="https://github.com/isaqb-org/examination-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-de.pdf[**Prüfungsregeln**]
-* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-en.pdf[**Examination Rules**]
-* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-fr.pdf[**Règles de l'examen et exemples**]
-* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-es.pdf[**Normas de examen y ejemplos**]
-* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-it.pdf[**Regole d’esame ed esempi**]
-* https://isaqb-org.github.io/examination-foundation/examination_rules/examination-rules-pt.pdf[**Regras do exame e exemplos**]
-* https://isaqb-org.github.io/examination-foundation/examination_guide/Examination-Guide-EN.pdf[**Examination Guide**]
+* https://public.isaqb.org/examination-foundation/examination_rules/examination-rules-de.pdf[**Prüfungsregeln**]
+* https://public.isaqb.org/examination-foundation/examination_rules/examination-rules-en.pdf[**Examination Rules**]
+* https://public.isaqb.org/examination-foundation/examination_rules/examination-rules-fr.pdf[**Règles de l'examen et exemples**]
+* https://public.isaqb.org/examination-foundation/examination_rules/examination-rules-es.pdf[**Normas de examen y ejemplos**]
+* https://public.isaqb.org/examination-foundation/examination_rules/examination-rules-it.pdf[**Regole d’esame ed esempi**]
+* https://public.isaqb.org/examination-foundation/examination_rules/examination-rules-pt.pdf[**Regras do exame e exemplos**]
+* https://public.isaqb.org/examination-foundation/examination_guide/Examination-Guide-EN.pdf[**Examination Guide**]
 
-==== Mock Examination 
+==== Mock Examination
 
 [#mock-exam-documents]
 [Mock Examination]
 ====
-* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-questions-de.pdf[**Beispielprüfung (nur Fragen) Deutsch**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-answers-de.pdf[**Beispielprüfung (mit Antworten) Deutsch**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-questions-en.pdf[**Mock Exam Questions English**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-answers-en.pdf[**Mock Exam Answers English**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-questions-es.pdf[**Mock Exam Questions Spanish**]
-* https://isaqb-org.github.io/examination-foundation/mock_exam/mock-exam-answers-es.pdf[**Mock Exam Answers Spanish**]
+* https://public.isaqb.org/examination-foundation/mock_exam/mock-exam-questions-de.pdf[**Beispielprüfung (nur Fragen) Deutsch**]
+* https://public.isaqb.org/examination-foundation/mock_exam/mock-exam-answers-de.pdf[**Beispielprüfung (mit Antworten) Deutsch**]
+* https://public.isaqb.org/examination-foundation/mock_exam/mock-exam-questions-en.pdf[**Mock Exam Questions English**]
+* https://public.isaqb.org/examination-foundation/mock_exam/mock-exam-answers-en.pdf[**Mock Exam Answers English**]
+* https://public.isaqb.org/examination-foundation/mock_exam/mock-exam-questions-es.pdf[**Mock Exam Questions Spanish**]
+* https://public.isaqb.org/examination-foundation/mock_exam/mock-exam-answers-es.pdf[**Mock Exam Answers Spanish**]
 ====
 
 * https://github.com/isaqb-org/examination-foundation[Source Repository], in case you want to contribute or comment.
@@ -59,7 +69,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundati
 Please note: currently only those modules already converted to the AsciiDoc build toolchain can be found here, the others are available only via the official https://isaqb.com[iSAQB website].
 
 
-=== https://isaqb-org.github.io/curriculum-adoc/[ADOC]
+=== https://public.isaqb.org/curriculum-adoc/[ADOC]
 
 **Architecture Documentation**
 
@@ -69,12 +79,12 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-adoc.svg["
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-adoc.svg["Issues",link="https://github.com/isaqb-org/curriculum-adoc/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-adoc/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-adoc/[Documents (PDF and html)] 
+* https://public.isaqb.org/curriculum-adoc/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-adoc[Source Repository]
 
 - - -
 
-=== https://isaqb-org.github.io/curriculum-arceval/[ARCEVAL]
+=== https://public.isaqb.org/curriculum-arceval/[ARCEVAL]
 
 **Architecture Evaluation**
 
@@ -84,12 +94,12 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-arceval.sv
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-arceval.svg["Issues",link="https://github.com/isaqb-org/curriculum-arceval/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-arceval.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-arceval/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-arceval/[Documents (PDF and html)]
+* https://public.isaqb.org/curriculum-arceval/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-arceval[Source Repository]
 
 - - -
 
-=== https://isaqb-org.github.io/curriculum-blockchain/[BLOCKCHAIN]
+=== https://public.isaqb.org/curriculum-blockchain/[BLOCKCHAIN]
 
 **Low-Trust Consensus in Decentralized Applications**
 
@@ -99,12 +109,12 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-blockchain
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-blockchain.svg["Issues",link="https://github.com/isaqb-org/curriculum-blockchain/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-blockchain.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-blockchain/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-blockchain/[Documents (PDF and html)]
+* https://public.isaqb.org/curriculum-blockchain/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-blockchain[Source Repository]
 
 - - -
 
-=== https://isaqb-org.github.io/curriculum-ddd/[DDD]
+=== https://public.isaqb.org/curriculum-ddd/[DDD]
 
 **Domain-Driven Design**
 
@@ -114,12 +124,12 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-ddd.svg["C
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-ddd.svg["Issues",link="https://github.com/isaqb-org/curriculum-ddd/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-ddd.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-ddd/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-ddd/[Documents (PDF and html)]
+* https://public.isaqb.org/curriculum-ddd/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-ddd[Source Repository]
 
 - - -
 
-=== https://isaqb-org.github.io/curriculum-embedded/[EMBEDDED]
+=== https://public.isaqb.org/curriculum-embedded/[EMBEDDED]
 
 **Dependable Embedded Systems**
 
@@ -129,13 +139,13 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-embedded.s
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-embedded.svg["Issues",link="https://github.com/isaqb-org/curriculum-embedded/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-embedded.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-embedded/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-embedded/[Documents (PDF and html)]
+* https://public.isaqb.org/curriculum-embedded/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-embedded[Source Repository]
 
 - - -
 
 
-=== https://isaqb-org.github.io/curriculum-flex/[FLEX]
+=== https://public.isaqb.org/curriculum-flex/[FLEX]
 
 **Flexible Architectures & Microservices**
 
@@ -147,12 +157,12 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-flex.svg["
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-flex.svg["Issues",link="https://github.com/isaqb-org/curriculum-flex/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-flex.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-flex/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-flex/[Documents (PDF and html)]
+* https://public.isaqb.org/curriculum-flex/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-flex[Source Repository]
 
 - - -
 
-=== https://isaqb-org.github.io/curriculum-funar/[FUNAR]
+=== https://public.isaqb.org/curriculum-funar/[FUNAR]
 
 **Functional Software Architecture**
 
@@ -162,12 +172,12 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-funar.svg[
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-funar.svg["Issues",link="https://github.com/isaqb-org/curriculum-funar/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-funar.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-funar/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-funar/[Documents (PDF and html)]
+* https://public.isaqb.org/curriculum-funar/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-funar[Source Repository]
 
 - - -
 
-=== https://isaqb-org.github.io/curriculum-improve/[IMPROVE] 
+=== https://public.isaqb.org/curriculum-improve/[IMPROVE]
 
 **Evolutionary improvement of existing systems**
 
@@ -177,12 +187,12 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-improve.sv
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-improve.svg["Issues",link="https://github.com/isaqb-org/curriculum-improve/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-improve/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-improve/[Documents (PDF and html)] 
+* https://public.isaqb.org/curriculum-improve/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-improve[Source Repository]
 
 - - -
 
-=== https://isaqb-org.github.io/curriculum-req4arc/[REQ4ARC]
+=== https://public.isaqb.org/curriculum-req4arc/[REQ4ARC]
 
 **Requirements Engineering** for Software Architects
 
@@ -192,12 +202,12 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-req4arc.sv
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-req4arc.svg["Issues",link="https://github.com/isaqb-org/curriculum-req4arc/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-req4arc/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-req4arc/[Documents (PDF and html)] 
+* https://public.isaqb.org/curriculum-req4arc/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-req4arc[Source Repository]
 
 - - -
 
-=== https://isaqb-org.github.io/curriculum-web/[WEB]
+=== https://public.isaqb.org/curriculum-web/[WEB]
 
 **Web Architectures**
 
@@ -207,12 +217,12 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-web.svg["C
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-web.svg["Issues",link="https://github.com/isaqb-org/curriculum-web/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-web.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-web/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-web/[Documents (PDF and html)]
+* https://public.isaqb.org/curriculum-web/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-web[Source Repository]
 
 - - -
 
-=== https://isaqb-org.github.io/curriculum-websec/[WEBSEC]
+=== https://public.isaqb.org/curriculum-websec/[WEBSEC]
 
 **Web Security**
 
@@ -222,5 +232,5 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-websec.svg
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-websec.svg["Issues",link="https://github.com/isaqb-org/curriculum-websec/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-websec.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-websec/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://isaqb-org.github.io/curriculum-websec/[Documents (PDF and html)]
+* https://public.isaqb.org/curriculum-websec/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-websec[Source Repository]
