@@ -32,6 +32,11 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
+==== Upcoming Version 2023 (Currently Release Candidate)
+* https://public.isaqb.org/curriculum-foundation/release-candidate/curriculum-foundation-de.pdf[Deutscher Lehrplan Release Candidate]
+* https://public.isaqb.org/curriculum-foundation/release-candidate/curriculum-foundation-en.pdf[English curriculum release candidate]
+
+==== Current Version 2021
 * https://public.isaqb.org/curriculum-foundation[**Foundation Level Curriculum** (PDF and html)]
 * https://github.com/isaqb-org/curriculum-foundation[Source Repository], in case you want to contribute or comment or checkout older releases.
 
