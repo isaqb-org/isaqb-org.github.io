@@ -12,14 +12,14 @@ buildscript {
     }
 
     dependencies {
-        classpath "org.asciidoctor:asciidoctorj:2.4.3"
-        classpath "org.jruby:jruby-complete:9.1.0.0"
+        classpath "org.asciidoctor:asciidoctorj:2.5.7"
+        classpath "org.jruby:jruby-complete:9.4.0.0"
     }
 
 }
 plugins {
 
-    id "org.asciidoctor.jvm.convert" version "3.3.0"
+    id "org.asciidoctor.jvm.convert" version "3.3.2"
 }
 
 asciidoctor {
