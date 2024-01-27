@@ -267,3 +267,8 @@ Examination Regulations
 
 * https://public.isaqb.org/examination-expert/[Documents]
 * https://github.com/isaqb-org/examination-expert[Source Repository]
+
+Topic Backlog
+
+* http://public.isaqb.org/topic-backlog-expert-level/[Topic Backlog]
+* https://github.com/isaqb-org/topic-backlog-expert-level[Source Repository]
