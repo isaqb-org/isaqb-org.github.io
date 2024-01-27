@@ -263,10 +263,7 @@ image:https://img.shields.io/github/contributors/isaqb-org/examination-expert.sv
 image:https://img.shields.io/github/issues/isaqb-org/examination-expert.svg["Issues",link="https://github.com/isaqb-org/examination-expert/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/examination-expert.svg["Issues closed",link="https://github.com/isaqb-org/examination-expert/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://public.isaqb.org/examination-expert/examination-regulations-de.pdf[Prüfungsordnung]
-* https://public.isaqb.org/examination-expert/examination-criteria-de.pdf[Kriterien für den Expert Level]
-* https://public.isaqb.org/examination-expert/examination-regulations-en.pdf[Examination Regulations]
-* https://public.isaqb.org/examination-expert/examination-criteria-en.pdf[Citeria for Expert Level]
+Examination Regulations
 
+* https://public.isaqb.org/examination-expert/[Documents]
 * https://github.com/isaqb-org/examination-expert[Source Repository]
-
