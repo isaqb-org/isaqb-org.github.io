@@ -26,9 +26,9 @@ asciidoctor {
     outputDir = file('build')
 }
 
-task copyIndex(type: Copy) {
+tasks.register('copyIndex', Copy) {
     dependsOn asciidoctor
-    from file("$buildDir/")
+    from file(layout.buildDirectory)
     into file(".")
 }
 
