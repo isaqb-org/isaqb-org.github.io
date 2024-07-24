@@ -6,12 +6,12 @@ buildscript {
     }
 
     dependencies {
-        classpath("org.asciidoctor:asciidoctorj:2.5.12")
+        classpath("org.asciidoctor:asciidoctorj:2.5.13")
     }
 
 }
 plugins {
-    id "org.asciidoctor.jvm.convert" version "4.0.2"
+    id "org.asciidoctor.jvm.convert" version "4.0.3"
 }
 
 asciidoctor {
