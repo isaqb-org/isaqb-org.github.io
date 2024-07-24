@@ -16,13 +16,7 @@ plugins {
 
 asciidoctor {
     attributes.put("allow-uri-read", "true")
-
     sourceDir = file('docs')
-
-    sources {
-        include 'index.adoc'
-    }
-
     outputDir = file('build')
 }
 
