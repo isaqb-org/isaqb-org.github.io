@@ -6,12 +6,11 @@
 :revremark!:
 :stylesheet: html-theme/adoc-github.css
 
+The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB^(R)^]) defines curricula for software architects.
+Here you find links to the respective download areas of those curricula, as well as other helpful documents like the iSAQB^(R)^ glossary or the mock exam.
+All repositories are hosted on GitHub under the https://github.com/isaqb-org[iSAQB^(R)^ organization].
 
-The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula for software architects.
-Here you find links to the respective download areas of those curricula, as well as other helpful documents like the iSAQB Glossary or the mock exam.
-All repositories are hosted on GitHub under the https://github.com/isaqb-org[iSAQB organization].
-
-== iSAQB Glossary
+== iSAQB^(R)^ Glossary
 
 image:https://img.shields.io/github/v/release/isaqb-org/glossary["GitHub release"]
 image:https://img.shields.io/github/last-commit/isaqb-org/glossary/main.svg["Last commit"]
@@ -19,7 +18,7 @@ image:https://img.shields.io/github/contributors/isaqb-org/glossary.svg["Contrib
 image:https://img.shields.io/github/issues/isaqb-org/glossary.svg["Issues",link="https://github.com/isaqb-org/glossary/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/glossary.svg["Issues closed",link="https://github.com/isaqb-org/glossary/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-* https://public.isaqb.org/glossary[**iSAQB Glossary** (PDF and html)]
+* https://public.isaqb.org/glossary[**iSAQB^(R)^ Glossary** (PDF and html)]
 * https://github.com/isaqb-org/glossary[Source Repository], in case you want to contribute, comment, or checkout older releases.
 
 
@@ -75,7 +74,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundati
 
 == Advanced Level (CPSA-A)
 
-Please note: currently only those modules already converted to the AsciiDoc build toolchain can be found here, the others are available only via the official https://isaqb.com[iSAQB website].
+Please note: currently only those modules already converted to the AsciiDoc build toolchain can be found here, the others are available only via the official https://isaqb.com[iSAQB^(R)^ website].
 
 
 === https://public.isaqb.org/curriculum-adoc/[ADOC]
