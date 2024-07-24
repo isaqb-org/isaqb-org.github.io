@@ -36,8 +36,6 @@ html {
   background: #fff; /* 1 */
   color: #000; /* 2 */
   font-family: sans-serif; /* 3 */
-  -ms-text-size-adjust: 100%; /* 4 */
-  -webkit-text-size-adjust: 100%; /* 4 */
 }
 
 /** Remove default margin. */
@@ -80,7 +78,6 @@ dfn {
 
 /** Address differences between Firefox and other browsers. */
 hr {
-  -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0;
 }
@@ -195,9 +192,7 @@ input[type="checkbox"], input[type="radio"] {
 
 /** 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome. 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome (include `-moz` to future-proof). */
 input[type="search"] {
-  -webkit-appearance: textfield; /* 1 */
-  -moz-box-sizing: content-box;
-  -webkit-box-sizing: content-box; /* 2 */
+  -webkit-appearance: textfield;
   box-sizing: content-box;
 }
 
@@ -226,8 +221,6 @@ table {
 }
 
 *, *:before, *:after {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -724,7 +717,6 @@ a:hover, a:focus {
   white-space: nowrap;
   background-color: transparent;
   border: 1px solid #dddddd;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
   text-shadow: none;
 }
@@ -747,9 +739,7 @@ kbd:not(.keyseq) {
   line-height: 1.4;
   background-color: #F7F7F7;
   border: 1px solid #ccc;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
-  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 0 0 2px white inset;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 0 0 2px white inset;
   margin: -0.15em 0.15em 0 0.15em;
   padding: 0.2em 0.6em 0.2em 0.5em;
@@ -915,7 +905,6 @@ div .details br {
   padding: 1.33333em;
   background: white;
   border-width: 0;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
 }
 
@@ -1056,7 +1045,6 @@ table.tableblock #preamble > .sectionbody > .paragraph:first-of-type p {
   margin-bottom: 1.33333em;
   padding: 1.33333em;
   background: white;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
 }
 
@@ -1082,7 +1070,6 @@ table.tableblock #preamble > .sectionbody > .paragraph:first-of-type p {
 }
 
 .exampleblock.result > .content {
-  -webkit-box-shadow: 0 1px 8px #eaeaea;
   box-shadow: 0 1px 8px #eaeaea;
 }
 
@@ -1093,7 +1080,6 @@ table.tableblock #preamble > .sectionbody > .paragraph:first-of-type p {
   margin-bottom: 1.33333em;
   padding: 1.33333em;
   background: white;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
 }
 
@@ -1136,7 +1122,6 @@ table.tableblock #preamble > .sectionbody > .paragraph:first-of-type p {
   border-width: 2px;
   border-style: solid;
   border-color: #dddddd;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
   padding: 0.66667em;
   word-wrap: break-word;
@@ -1313,7 +1298,6 @@ table thead th, table tfoot th {
 table.tableblock.grid-all {
   border-collapse: separate;
   border-spacing: 1px;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
@@ -1495,7 +1479,6 @@ td.hdlist1, td.hdlist2 {
   line-height: 0;
   display: inline-block;
   border: solid 4px white;
-  -webkit-box-shadow: 0 0 0 1px #dddddd;
   box-shadow: 0 0 0 1px #dddddd;
 }
 
@@ -1787,7 +1770,6 @@ span.icon > [class^="icon-"], span.icon > [class*=" icon-"] {
   display: inline-block;
   color: white !important;
   background-color: #333333;
-  -webkit-border-radius: 100px;
   border-radius: 100px;
   text-align: center;
   width: 20px;
