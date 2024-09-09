@@ -44,7 +44,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 This is a preview of the upcoming version 2025.1. Please expect changes, a structurally stable version can be expected around October 2024.
 ====
 
-* https://public.isaqb.org/curriculum-foundation/release_candidate[**Release Candidate 2025.1** (PDF and html)]
+* https://public.isaqb.org/curriculum-foundation/release-candidate[**Release Candidate 2025.1** (PDF and html)]
 
 === Examination
 image:https://img.shields.io/github/v/release/isaqb-org/examination-foundation["GitHub release"]
