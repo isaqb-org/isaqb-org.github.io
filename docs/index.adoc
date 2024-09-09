@@ -207,14 +207,14 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-flex.svg[
 * https://public.isaqb.org/curriculum-flex/[Documents (PDF and html)]
 * https://github.com/isaqb-org/curriculum-flex[Source Repository]
 
-==== Preview of Upcoming Version 2024.1
-
-[NOTE]
-====
-This is a preview of the upcoming version 2024.1. Please expect changes.
-====
-
-* https://public.isaqb.org/curriculum-flex/release-candidate[**Release Candidate 2024.1** (PDF and html)]
+// ==== Preview of Upcoming Version 2024.1
+//
+// [NOTE]
+// ====
+// This is a preview of the upcoming version 2024.1. Please expect changes.
+// ====
+//
+// * https://public.isaqb.org/curriculum-flex/release-candidate[**Release Candidate 2024.1** (PDF and html)]
 
 - - -
 
