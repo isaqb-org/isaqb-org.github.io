@@ -197,8 +197,6 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-embedded.
 
 **Flexible Architectures & Microservices**
 
-NOTE: the migrated document 2020.1-rev1 is still in review!
-
 image:https://img.shields.io/github/v/release/isaqb-org/curriculum-flex["GitHub release"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-flex.svg["Contributors",link="https://github.com/isaqb-org/curriculum-flex/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-flex.svg["Issues",link="https://github.com/isaqb-org/curriculum-flex/issues"]
