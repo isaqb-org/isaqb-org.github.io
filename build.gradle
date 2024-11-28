@@ -6,7 +6,7 @@ buildscript {
     }
 
     dependencies {
-        classpath("org.asciidoctor:asciidoctorj:2.5.13")
+        classpath("org.asciidoctor:asciidoctorj:3.0.0")
     }
 
 }
