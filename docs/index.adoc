@@ -94,6 +94,20 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 
 - - -
 
+=== https://public.isaqb.org/curriculum-api/[API]
+
+**Application Programming Interfaces**
+
+image:https://img.shields.io/github/v/release/isaqb-org/curriculum-api["GitHub release"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-api.svg["Contributors",link="https://github.com/isaqb-org/curriculum-api/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-api.svg["Issues",link="https://github.com/isaqb-org/curriculum-api/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-api.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-api/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+* https://public.isaqb.org/curriculum-api/[Documents (PDF and html)]
+* https://github.com/isaqb-org/curriculum-api[Source Repository]
+
+- - -
+
 === https://public.isaqb.org/curriculum-arceval/[ARCEVAL]
 
 **Architecture Evaluation**
