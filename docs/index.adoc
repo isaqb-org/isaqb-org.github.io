@@ -33,18 +33,9 @@ image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 
-==== Current Official Version 2023.1 (valid from April 1st, 2023)
+==== Current Official Version 2025.1 (valid from April 1st, 2023)
 * https://public.isaqb.org/curriculum-foundation/[**Foundation Level Curriculum** (PDF and html)]
 * https://github.com/isaqb-org/curriculum-foundation[Source Repository], in case you want to contribute or comment or checkout older releases.
-
-==== Preview of Upcoming Version 2025.1
-
-[NOTE]
-====
-This is a preview of the upcoming version 2025.1. Please expect changes, a structurally stable version can be expected around October 2024.
-====
-
-* https://public.isaqb.org/curriculum-foundation/release-candidate[**Release Candidate 2025.1** (PDF and html)]
 
 === Examination
 image:https://img.shields.io/github/v/release/isaqb-org/examination-foundation["GitHub release"]
