@@ -85,6 +85,20 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 
 - - -
 
+=== https://public.isaqb.org/curriculum-agila/[AGILA]
+
+**Agile Software Architecture**
+
+image:https://img.shields.io/github/v/release/isaqb-org/curriculum-agila["GitHub release"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-agila.svg["Contributors",link="https://github.com/isaqb-org/curriculum-agila/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-agila.svg["Issues",link="https://github.com/isaqb-org/curriculum-agila/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-agila.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-agila/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+* https://public.isaqb.org/curriculum-agila/[Documents (PDF and html)]
+* https://github.com/isaqb-org/curriculum-agila[Source Repository]
+
+- - -
+
 === https://public.isaqb.org/curriculum-api/[API]
 
 **Application Programming Interfaces**
