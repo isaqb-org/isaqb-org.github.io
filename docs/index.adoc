@@ -184,6 +184,20 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-embedded.
 
 - - -
 
+=== https://public.isaqb.org/curricula-security/[EMBEDDEDSEC]
+
+**Embedded Security for Architects**
+
+image:https://img.shields.io/github/v/release/isaqb-org/curricula-security["GitHub release"]
+image:https://img.shields.io/github/contributors/isaqb-org/curricula-security.svg["Contributors",link="https://github.com/isaqb-org/curricula-security/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curricula-security.svg["Issues",link="https://github.com/isaqb-org/curricula-security/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curricula-security.svg["Issues closed",link="https://github.com/isaqb-org/curricula-security/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+* https://public.isaqb.org/curricula-security/[Documents (PDF and HTML)]
+* https://github.com/isaqb-org/curricula-security[Source Repository]
+
+- - -
+
 
 === https://public.isaqb.org/curriculum-flex/[FLEX]
 
