@@ -1,0 +1,64 @@
+name: Deploy landing page to GitHub Pages
+
+# Builds docs/index.adoc via the curriculum-builder image and publishes the
+# result (index.html + html-theme/ + logo + CNAME) to GitHub Pages.
+# Triggered by a release tag (YYYY.<minor>-rev<patch>) or manually.
+on:
+  push:
+    tags:
+      - "[2-9][0-9][0-9][0-9].[0-9]+-rev[0-9]+"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set release version (from tag)
+        if: startsWith(github.ref, 'refs/tags/')
+        run: echo "RELEASE_VERSION=${GITHUB_REF#refs/tags/}" >> "$GITHUB_ENV"
+
+      - name: Build landing page
+        # The build scripts are the standard curriculum-builder launchers. This repo
+        # is a HTML-only, single-language landing page, so call them with "html EN":
+        # renders docs/index.adoc -> build/index.html (+ html-theme/), no PDF, no DE.
+        run: ./curriculum-build.sh html EN
+
+      - name: Assemble Pages artifact (index + theme + logo + CNAME)
+        run: |
+          # Logo is a link (data-uri is off), so ship it next to index.html.
+          cp -r docs/images build/images
+          # Preserve the custom domain.
+          if [ -f CNAME ]; then cp CNAME build/CNAME; fi
+          # Drop the throwaway stub output; only the landing page is published.
+          rm -f build/index-page-en.html build/*.pdf
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,5 @@
+= placeholder
+
+// Stub required by the curriculum-builder (CURRICULUM_FILE): the builder always
+// renders docs/index.adoc AND docs/${CURRICULUM_FILE}.adoc. Only the index.html
+// produced from docs/index.adoc is kept; this file's output is discarded.

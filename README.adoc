@@ -1,7 +1,7 @@
-= https://isaqb.org[iSAQB] Collection of Curricula
+= https://isaqb.org[iSAQB] Overview page of Curricula
 
 
-This creates the https://public.isaqb.org/[main page] that links to the iSAQB curriculae that are maintained in AsciiDoc.
+This creates the https://public.isaqb.org/[main page] that links to the iSAQB curricula that are maintained in AsciiDoc.
 
 Its online at https://public.isaqb.org
 
@@ -10,22 +10,28 @@ image:https://img.shields.io/github/contributors/isaqb-org/isaqb-org.github.io.s
 image:https://img.shields.io/github/issues/isaqb-org/isaqb-org.github.io.svg["Issues",link="https://github.com/isaqb-org/isaqb-org.github.io/issues"]
 
 == How-To
-. Checkout this repository including its submodules (e.g. `git clone --recurse-submodules https://github.com/isaqb-org/isaqb-org.github.io.git`). This automatically includes the `html-theme` submodule which contains the CSS files for all iSAQB^(R)^ curriculum websites.
-. The download links for the respective curriculum have to be added to the `docs/index.adoc` file.
-. Run the `gradlew` command without parameters, it will generate an `index.html`.
-. The build will copy the generated html file to the root of this repository, replacing the existing `index.html`.
-. Test your changes!
-. `git commit -m "<useful message>"`
-. `git push`
+The page is built with the shared https://github.com/isaqb-org/curriculum-builder[curriculum-builder] Docker image — the same toolchain used by all iSAQB^(R)^ curriculum repositories. No JDK, Gradle, or theme submodule required; only https://docs.docker.com/get-docker/[Docker].
 
-easy, isn't it?
+`curriculum-build.sh` (Linux/macOS) and `curriculum-build.bat` (Windows) are the *standard* curriculum-builder launchers, identical to the ones in every curriculum repo (only the pinned builder version differs). They take a `<format> <language>` argument pair.
+
+This repository, however, is not a curriculum: it is a single HTML landing page. So it is always built **HTML-only, English-only** by calling the launcher with `html EN`. That renders `docs/index.adoc` into `build/` (`index.html` + `html-theme/`) — no PDF, no German variant.
+
+=== Edit and preview locally
+. Clone this repository: `git clone https://github.com/isaqb-org/isaqb-org.github.io.git`.
+. Add or change the curriculum download links in `docs/index.adoc`.
+. Run `./curriculum-build.sh html EN` (Linux/macOS) or `curriculum-build.bat html EN` (Windows).
+. Open `build/index.html` to check your changes.
+. Commit and push your `docs/` change.
+
+NOTE: Running the launcher *without* the `html EN` arguments builds the full
+`pdf` + `html` matrix (the default curriculum behaviour), which is not what this
+landing page wants — always pass `html EN`.
+
+=== Publish to https://public.isaqb.org
+Deployment is automated by `.github/workflows/deploy.yml`: pushing a release tag
+matching `YYYY.<minor>-rev<patch>` (e.g. `2026.1-rev0`) runs `./curriculum-build.sh html EN`
+and publishes `build/` (index page + theme + logo + `CNAME`) to GitHub Pages. It can also
+be run manually via *Actions → Deploy landing page to GitHub Pages → Run workflow*.
 
 == Questions
 Contact one of the https://github.com/isaqb-org/isaqb-org.github.io/graphs/contributors[maintainers] or the iSAQB^(R)^ administrators.
-
-== License
-This repo is free to use.
-
-Please note that the iSAQB^(R)^ curricula (contained in different repositories) are under copyright of iSAQB^(R)^!
-
-

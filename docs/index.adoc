@@ -1,11 +1,7 @@
 = image:images/isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
 :TOC: right
 :last-update-label!:
-:revdate!:
-:revnumber!:
 :revremark!:
-:stylesheet: html-theme/adoc-github.css
-:icons: font
 
 The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB^(R)^]) defines curricula for software architects.
 Here you find links to the respective download areas of those curricula, as well as other helpful documents like the iSAQB^(R)^ glossary or the mock exam.
