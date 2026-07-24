@@ -28,10 +28,10 @@ NOTE: Running the launcher *without* the `html EN` arguments builds the full
 landing page wants — always pass `html EN`.
 
 === Publish to https://public.isaqb.org
-Deployment is automated by `.github/workflows/deploy.yml`: pushing a release tag
-matching `YYYY.<minor>-rev<patch>` (e.g. `2026.1-rev0`) runs `./curriculum-build.sh html EN`
-and publishes `build/` (index page + theme + logo + `CNAME`) to GitHub Pages. It can also
-be run manually via *Actions → Deploy landing page to GitHub Pages → Run workflow*.
+Deployment is automated by `.github/workflows/deploy.yml`: every push to `main` (or a
+manual run via *Actions → Deploy landing page to GitHub Pages → Run workflow*) runs
+`./curriculum-build.sh html EN` and publishes `build/` (index page + theme + logo + `CNAME`)
+to GitHub Pages. The page version shown in the footer is the build date.
 
 == Questions
 Contact one of the https://github.com/isaqb-org/isaqb-org.github.io/graphs/contributors[maintainers] or the iSAQB^(R)^ administrators.
