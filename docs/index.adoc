@@ -42,7 +42,11 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 * https://github.com/isaqb-org/curriculum-foundation[Source Repository], in case you want to contribute or comment or checkout older releases.
 
 === Examination
+
+==== Examination rules
 image:https://img.shields.io/github/v/release/isaqb-org/examination-foundation["GitHub release"]
+image:https://img.shields.io/github/last-commit/isaqb-org/examination-foundation/main.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/examination-foundation.svg["Contributors",link="https://github.com/isaqb-org/examination-foundation/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/examination-foundation.svg["Issues",link="https://github.com/isaqb-org/examination-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundation.svg["Issues closed",link="https://github.com/isaqb-org/examination-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
@@ -55,19 +59,23 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/examination-foundati
 * https://public.isaqb.org/examination-foundation/examination_guide/Examination-Guide-EN.pdf[**Examination Guide**]
 
 ==== Mock Examination
+image:https://img.shields.io/github/v/release/isaqb-org/foundation-exam-questions["GitHub release"]
+image:https://img.shields.io/github/last-commit/isaqb-org/foundation-exam-questions/main.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/foundation-exam-questions.svg["Contributors",link="https://github.com/isaqb-org/foundation-exam-questions/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/foundation-exam-questions.svg["Issues",link="https://github.com/isaqb-org/foundation-exam-questions/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/foundation-exam-questions.svg["Issues closed",link="https://github.com/isaqb-org/foundation-exam-questions/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 [#mock-exam-documents]
 [Mock Examination]
-====
 * https://public.isaqb.org/foundation-exam-questions/mock-de.pdf[**Beispielprüfung (nur Fragen) Deutsch**]
 * https://public.isaqb.org/foundation-exam-questions/mock-de-solutions.pdf[**Beispielprüfung (mit Antworten) Deutsch**]
 * https://public.isaqb.org/foundation-exam-questions/mock-en.pdf[**Mock Exam Questions English**]
 * https://public.isaqb.org/foundation-exam-questions/mock-en-solutions.pdf[**Mock Exam Answers English**]
 * https://public.isaqb.org/examination-foundation/mock_exam/mock-exam-questions-es.pdf[**Mock Exam Questions Spanish, old version**]
 * https://public.isaqb.org/examination-foundation/mock_exam/mock-exam-answers-es.pdf[**Mock Exam Answers Spanish, old version**]
-====
 
-* https://github.com/isaqb-org/examination-foundation[Source Repository], in case you want to contribute or comment.
+
+* https://github.com/isaqb-org/foundation-exam-questions[Source Repository], in case you want to contribute or comment.
 
 
 == Advanced Level (CPSA-A)
