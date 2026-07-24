@@ -3,6 +3,14 @@
 :last-update-label!:
 :revremark!:
 
+// The build version is rendered both under the title and in the footer. Hide the
+// header copy (the details block) and keep only the footer one.
+++++
+<style>
+#header .details { display: none; }
+</style>
+++++
+
 The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB^(R)^]) defines curricula for software architects.
 Here you find links to the respective download areas of those curricula, as well as other helpful documents like the iSAQB^(R)^ glossary or the mock exam.
 All repositories are hosted on GitHub under the https://github.com/isaqb-org[iSAQB^(R)^ organization].
