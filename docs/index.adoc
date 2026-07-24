@@ -1,10 +1,9 @@
-= image:images/isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
+= image:images/isaqb-logo.png[iSAQB,150,role=theme-swap] Certified Professional for Software Architecture^(R)^ (CPSA)
 :TOC: right
 :last-update-label!:
 :revremark!:
 
-// The build version is rendered both under the title and in the footer. Hide the
-// header copy (the details block) and keep only the footer one.
+// Hide the version/date details block under the title (it also appears in the footer).
 ++++
 <style>
 #header .details { display: none; }
