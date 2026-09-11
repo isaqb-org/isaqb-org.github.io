@@ -167,6 +167,20 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-cloudinfr
 
 - - -
 
+=== https://public.isaqb.org/curriculum-cosmo/[COSMO]
+
+**Collaborative Software Modelling**
+
+image:https://img.shields.io/github/v/release/isaqb-org/curriculum-cosmo["GitHub release"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-cosmo.svg["Contributors",link="https://github.com/isaqb-org/curriculum-cosmo/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-cosmo.svg["Issues",link="https://github.com/isaqb-org/curriculum-cosmo/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-cosmo.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-cosmo/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+* https://public.isaqb.org/curriculum-cosmo/[Documents (PDF and HTML)]
+* https://github.com/isaqb-org/curriculum-cosmo[Source Repository]
+
+- - -
+
 === https://public.isaqb.org/curriculum-ddd/[DDD]
 
 **Domain-Driven Design**
