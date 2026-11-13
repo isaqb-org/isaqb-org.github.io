@@ -40,6 +40,11 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 * https://public.isaqb.org/curriculum-foundation/[**Foundation Level Curriculum** (PDF and HTML)]
 * https://github.com/isaqb-org/curriculum-foundation[Source Repository], in case you want to contribute or comment or checkout older releases.
 
+
+==== Upcoming Version 2027.1 (valid from April 1st, 2027)
+* https://public.isaqb.org/curriculum-foundation/release-candidate[**Foundation Level Curriculum Release Candidate** (PDF and HTML)]
+
+
 === Examination
 
 ==== Examination rules
